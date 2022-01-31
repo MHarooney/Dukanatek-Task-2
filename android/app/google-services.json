@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "379407331021",
+    "project_id": "dukanatek",
+    "storage_bucket": "dukanatek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379407331021:android:fb988cf7fc6f02e072c384",
+        "android_client_info": {
+          "package_name": "com.example.dukanatek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379407331021-h900rd482r201s4dl3s321lrae9lb7mg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dukanatek",
+            "certificate_hash": "f2b98d7f75a2ee118adcfc7b50523448bd74742d"
+          }
+        },
+        {
+          "client_id": "379407331021-m80l2jf3sig595ob8f4flf0avcrdecqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8eJji3vAUCpuwcL-fnLhypcBSlDIFlyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379407331021-m80l2jf3sig595ob8f4flf0avcrdecqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
